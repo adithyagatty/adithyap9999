@@ -173,10 +173,7 @@ Ever since I wrote my first line of code, my journey has been a thrilling advent
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adithyagatty&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyagatty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyagatty&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
