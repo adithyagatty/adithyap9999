@@ -154,23 +154,34 @@ orchestration and intelligent automation** that turn ambitious ideas into workin
 
 ## 📊 GitHub Analytics
 
+<!--
+  SIZING RULE — READ BEFORE CHANGING ANY width= BELOW.
+  These cards do NOT share a native width, so a uniform percentage
+  renders their text at different sizes. Width must stay proportional
+  to native width, targeting a render scale of ~0.140:
+      700px native -> 98%   (0.1400)
+      495px native -> 69%   (0.1394)
+      340px native -> 48%   (0.1412)
+  Putting a 340px card at 98% doubles every glyph inside it.
+-->
+
 <div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adithyagatty&theme=github_dark" alt="stats" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=adithyagatty&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=FF6B6B&currStreakLabel=00d9ff" alt="streak" />
-
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adithyagatty&theme=github_dark" alt="repos per language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adithyagatty&theme=github_dark" alt="most commit language" />
-
-<br/>
 
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adithyagatty&theme=github_dark" alt="profile details" />
 
 <br/>
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adithyagatty&theme=github_dark&utcOffset=5.5" alt="productive time" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adithyagatty&theme=github_dark" alt="stats" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adithyagatty&theme=github_dark&utcOffset=5.5" alt="productive time" />
+
+<br/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adithyagatty&theme=github_dark" alt="repos per language" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adithyagatty&theme=github_dark" alt="most commit language" />
+
+<br/>
+
+<img width="69%" src="https://streak-stats.demolab.com/?user=adithyagatty&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=FF6B6B&currStreakLabel=00d9ff" alt="streak" />
 
 </div>
 
